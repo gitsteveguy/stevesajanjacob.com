@@ -115,7 +115,9 @@ main{
   #type-desc{
     color: var(--primary-color);
   }
-  
+  #name{
+    color: var(--primary-color);
+  }
 .certifications{
     background: #02427a;
     min-width: 100%;
